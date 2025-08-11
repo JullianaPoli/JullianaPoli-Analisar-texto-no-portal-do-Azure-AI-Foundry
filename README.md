@@ -1,0 +1,1 @@
+# JullianaPoli-Analisar-texto-no-portal-do-Azure-AI-Foundry
